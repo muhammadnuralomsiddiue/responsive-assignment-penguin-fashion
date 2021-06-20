@@ -1,0 +1,138 @@
+body p {
+    color: #3E3E3E;
+    font-weight: 500;
+    font-size: 1em;
+}
+
+.second-part {
+    height: 100%;
+    background-color: #FFFBF0;
+}
+
+.header-content {
+    /* height: 45em; */
+    background-color: #FFFBF0;
+}
+
+.navbar-icon {
+    width: 15em;
+    margin-left: 2.125em;
+}
+
+nav a {
+    color: #3C3C3C;
+    font-weight: 600;
+    font-size: 1.1em;
+}
+
+.header-tag {
+    color: #FABE4C;
+    font-weight: 600;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2em;
+}
+
+.header-tag-2 {
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 600;
+    font-size: 2em;
+}
+
+.woman-jacket {
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 3em;
+}
+
+.all-card {
+    border-radius: 1em;
+}
+
+.card-button {
+    width: 170px;
+    height: 60px;
+    background-image: linear-gradient(#A4BC46, #85A019);
+    color: white;
+    font-size: 1.2em;
+    border-radius: 0.5em;
+    font-weight: 500;
+}
+
+.card-prize h1 {
+    color: #FABE4C;
+    font-weight: 700;
+}
+
+.all-card-footer {
+    border: 0;
+    background-color: white;
+}
+
+.card {
+    border: 0;
+}
+
+.women-1 {
+    width: 330px;
+    height: 330px;
+}
+
+.man-2 {
+    width: 300px;
+    height: 316px;
+}
+
+.card-image {
+    width: 334px;
+    height: 327px;
+    background: #F1F1F1;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.card-image-main {
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    height: 100px
+}
+
+.gutter {
+    width: 489px;
+    height: 135px;
+    border-radius: 1.2em;
+}
+
+#subscribe {
+    background-color: #F1F1F1;
+}
+
+.subscribe-button {
+    font-weight: 600;
+}
+
+.subscribe-part h2 {
+    color: #FABE4C;
+    font-weight: 600;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 4em;
+}
+
+.subscribe-part h5 {
+    color: #363958;
+}
+
+#product h5 {
+    color: #363958;
+    font-size: 1.7em;
+    font-weight: 600;
+}
+
+.service-part {
+    color: #363958;
+    font-weight: 600;
+}
